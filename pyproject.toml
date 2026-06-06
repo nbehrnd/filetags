@@ -16,7 +16,7 @@ The script accepts an arbitrary number of files (see your shell for possible len
 - Target group: users who are able to use command line tools and who are using tags in file names.
 - Hosted and documented on github: https://github.com/novoid/filetags
 """, content-type = "text/plain"}
-version = "2026.03.01.1"
+version = "2026.06.06.1"
 keywords = ["tagging", "tags", "file managing", "file management", "files", "tagtrees", "tagstore", "tag-based navigation", "tag-based filter"]
 
 # sequence along https://pypi.org/classifiers
